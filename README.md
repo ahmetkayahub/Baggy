@@ -1,8 +1,8 @@
 # Baggy - Akıllı Alışveriş Sepeti Kiti
-Baggy geleneksel alışveriş deneyimini dijitalleştiren, market alışverişlerini hızlı, temassız ve güvenli hale getiren akıllı alışveriş sepeti kitidir.
+Baggy, geleneksel alışveriş deneyimini dijitalleştiren, market alışverişlerini hızlı, temassız ve güvenli hale getiren akıllı alışveriş sepeti kitidir.
 Turkcell Paycell entegrasyonu ve ürün tanıma teknolojileri ile perakende sektöründe operasyonel verimliliği artırmayı hedefler.
 
-🚀 Özellikler
+## ÖZELLİKLER
 📷 Barkod Okuma: Ürünlerin barkodları gerçek zamanlı tanınır.
 
 🛒 Ürün Takibi: Alışveriş sırasında ürün adı, fiyatı, adedi ve ağırlığı anlık kaydedilir.
@@ -11,21 +11,28 @@ Turkcell Paycell entegrasyonu ve ürün tanıma teknolojileri ile perakende sekt
 
 💳 Temassız Ödeme: Alışveriş sonunda Paycell ile kasaya uğramadan ödeme imkânı.
 
-📈 Veri Toplama: Kullanıcı deneyimi ve operasyonel analiz için veri altyapısı.
+📈 Veri Toplama: Kullanıcı deneyimi ve operasyonel analiz için veri altyapısı oluşturulur.
 
-🛠️ Kullanılan Teknolojiler
-Python (OpenCV, Pyzbar, TensorFlow)
+## KULLANILAN TEKNOLOJİLER
+Python: OpenCV, Pyzbar, TensorFlow kütüphaneleri kullanıldı.
 
-Makine Öğrenimi: Görüntü işleme ve ürün tanıma için
+Makine Öğrenimi: Görüntü işleme ve ürün tanıma için model geliştirme.
 
-IoT Sensörler: Ağırlık sensörü ve bağlantı modülleri
+IoT Sensörler: Ağırlık sensörleri ve bağlantı modülleri ile gerçek zamanlı veri akışı.
 
-Paycell API: Mobil ödeme entegrasyonu
+Paycell API: Mobil ödeme entegrasyonu.
 
-🎯 Test Senaryosu
+TEST SENARYOSU
 Üç farklı çikolata türü (Beyaz, Sütlü, Bitter) için özel QR kodlar oluşturuldu.
 
 Ürünlerin fiyat, ağırlık ve adet bilgileri sepete kaydedildi.
+
+Sepet ağırlığı, gerçek sensör verisiyle karşılaştırılarak doğrulama gerçekleştirildi.
+
+Usulsüzlük veya tutarsızlık durumunda yetkili personele bildirim mekanizması test edildi.
+
+VİZYON
+Baggy, perakende sektörünün dijital dönüşüm sürecine öncülük ederek operasyonel maliyetleri azaltmayı, müşteri deneyimini geliştirmeyi ve sürdürülebilir alışveriş çözümleri sunmayı hedeflemektedir.
 
 Sepet ağırlığı, gerçek sensör verisiyle karşılaştırılarak doğrulama gerçekleştirildi.
 
