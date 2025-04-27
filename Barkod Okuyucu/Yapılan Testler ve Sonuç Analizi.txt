@@ -1,0 +1,7 @@
+Geliştirilen yazılımın test edilmesi amacıyla alışveriş senaryosuna uygun bir çalışma hazırlanmıştır. Bu kapsamda üç farklı çikolata türünü temsil edecek şekilde Beyaz Çikolata, Sütlü Çikolata ve Bitter Çikolata ürünleri seçilmiş ve her biri için özel QR kodlar oluşturulmuştur. QR kodların içerisine ürünleri temsil eden sayı kodları yerleştirilmiş bu sayılar aracılığıyla ürün tanıma işlemi gerçekleştirilmiştir.
+
+Oluşturulan ürün bilgilerinde yalnızca ürün adı ve fiyatı değil aynı zamanda her ürünün ağırlık bilgisi de tanımlanmıştır. Alışveriş sırasında barkod okuyucuya okutulan her ürünün adı, fiyatı, adedi ve ağırlığı sisteme kaydedilmiştir. Sepette biriken ürünlerin toplam ağırlığı, alışveriş sepetine entegre edilen ağırlık sensörlerinden elde edilen verilerle karşılacaktır.
+
+Alışveriş süreci sonunda ödeme aşamasına geçilmeden önce sistem tarafından ürünlerin toplam ağırlığı ile sepetten alınan gerçek ağırlık verileri eşleştiril. Eğer ağırlıklar uyum gösteriyorsa kullanıcı alışverişini tamamlamaya yönlendiril. Ancak ağırlık doğrulamasında bir tutarsızlık tespit edilirse olası usulsüzlük veya hırsızlık girişimi olarak değerlendirilmiş ve yetkili personele otomatik olarak bildirim gönderilecektir.
+
+Bu yazılımın test sürecinde ürün tanıma, ürün sayısı takibi, ağırlık ölçümü ve toplam fiyat hesaplama gibi temel işlevler başarıyla denenmiş ve sistemin doğru çalıştığı gözlemlenmiştir.
