@@ -1,0 +1,5 @@
+Test ortamında kullanılmak üzere market ürünlerini temsil etmesi amacıyla teneke Coca-Cola seçilmiştir. Modelin geliştirilmesi için toplam 1.594 adet teneke Coca-Cola görseli etiketlenmiş ve bu veriler kullanılarak bir makine öğrenmesi modeli oluşturulmuştur. Yapılan testler sonucunda model oldukça başarılı sonuçlar vermiştir.
+
+Gerçek dünya koşulları düşünüldüğünde zincir süpermarketlerde ortalama 5.000 ila 15.000 arasında farklı ürün bulunmaktadır. Böyle bir sistemin tam kapasiteyle çalışabilmesi için tüm ürünlerin görsel olarak etiketlenmesi ve makine öğrenmesi algoritmaları aracılığıyla eğitilmesi gerekmektedir. Geliştirdiğimiz ürünün bu altyapıyı destekliyor olması perakende sektörünün önümüzdeki 10 yıl içerisindeki dönüşümü göz önünde bulundurulduğunda kritik bir öneme sahiptir.
+
+Araştırmalar, perakende sektörünün kaçınılmaz bir şekilde dijitalleşme ve otomasyon yönünde evrileceğini açıkça göstermektedir. Bu nedenle bizim bu trendi erken fark ederek sektöre uyum sağlayacak yenilikçi çözümler geliştirmemiz büyük önem taşımaktadır. Geliştirdiğimiz ürün, bu vizyon doğrultusunda perakende sektörünün geleceğine değer katacak şekilde tasarlanmıştır.
