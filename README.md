@@ -1,6 +1,9 @@
-# Baggy - Akıllı Alışveriş Sepeti Kiti
+![Baggy Tasarım](https://github.com/user-attachments/assets/b2d0eaeb-a343-4c52-bba3-96de1bf7904a)# Baggy - Akıllı Alışveriş Sepeti Kiti
 Baggy, geleneksel alışveriş deneyimini dijitalleştiren, market alışverişlerini hızlı, temassız ve güvenli hale getiren akıllı alışveriş sepeti kitidir.
 Turkcell Paycell entegrasyonu ve ürün tanıma teknolojileri ile perakende sektöründe operasyonel verimliliği artırmayı hedefler.
+
+
+![Baggy Tasarım](https://github.com/user-attachments/assets/4dca08c7-b819-4aac-afdc-ab90e92bae89)
 
 ## ÖZELLİKLER
 📷 Barkod Okuma: Ürünlerin barkodları gerçek zamanlı tanınır.
@@ -22,20 +25,12 @@ IoT Sensörler: Ağırlık sensörleri ve bağlantı modülleri ile gerçek zama
 
 Paycell API: Mobil ödeme entegrasyonu.
 
-TEST SENARYOSU
+## TEST SENARYOSU
 Üç farklı çikolata türü (Beyaz, Sütlü, Bitter) için özel QR kodlar oluşturuldu.
 
 Ürünlerin fiyat, ağırlık ve adet bilgileri sepete kaydedildi.
 
 Sepet ağırlığı, gerçek sensör verisiyle karşılaştırılarak doğrulama gerçekleştirildi.
 
-Usulsüzlük veya tutarsızlık durumunda yetkili personele bildirim mekanizması test edildi.
-
-VİZYON
+## VİZYON
 Baggy, perakende sektörünün dijital dönüşüm sürecine öncülük ederek operasyonel maliyetleri azaltmayı, müşteri deneyimini geliştirmeyi ve sürdürülebilir alışveriş çözümleri sunmayı hedeflemektedir.
-
-Sepet ağırlığı, gerçek sensör verisiyle karşılaştırılarak doğrulama gerçekleştirildi.
-
-🌍 Vizyon
-Baggy, perakende sektörünün dijital dönüşüm sürecine öncülük ederek operasyonel maliyetleri azaltmayı, müşteri deneyimini geliştirmeyi ve sürdürülebilir alışveriş çözümleri sunmayı hedeflemektedir.
-
