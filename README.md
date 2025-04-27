@@ -1,4 +1,4 @@
-![Baggy Tasarım](https://github.com/user-attachments/assets/b2d0eaeb-a343-4c52-bba3-96de1bf7904a)# Baggy - Akıllı Alışveriş Sepeti Kiti
+# Baggy - Akıllı Alışveriş Sepeti Kiti
 Baggy, geleneksel alışveriş deneyimini dijitalleştiren, market alışverişlerini hızlı, temassız ve güvenli hale getiren akıllı alışveriş sepeti kitidir.
 Turkcell Paycell entegrasyonu ve ürün tanıma teknolojileri ile perakende sektöründe operasyonel verimliliği artırmayı hedefler.
 
